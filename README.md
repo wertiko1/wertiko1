@@ -10,7 +10,7 @@ Beginner Python Dev
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/wertiko1"><img src="https://github-readme-stats.vercel.app/api?username=wertiko1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wertiko1's GitHub stats" /></a>
+<a href="http://www.github.com/wertiko1"><img src="https://github-readme-stats.vercel.app/api?username=wertiko1&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="wertiko1's GitHub stats" /></a>
 
 ### Skills 
 <p align="left">
