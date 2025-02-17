@@ -15,7 +15,7 @@ I'm writting simple Java plugins for minecraft, Telegram or Discord bot and diff
 
 ### My GitHub Stats
 
-![Wertiko1's GitHub stats](https://github-readme-stats.vercel.app/api?username=wertiko1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<a href="http://www.github.com/wertiko1"><img src="https://github-readme-stats.vercel.app/api?username=wertiko1&show_icons=true&hide=&count_private=false&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="wertiko1's GitHub stats" /></a>
 
 ### My skills 
 <p align="left">
