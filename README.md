@@ -8,9 +8,8 @@ Hi 👋 My name is Yaroslav
 
 I'm writting simple Java plugins for minecraft, Telegram or Discord bot and different API
 
-### My contacts
+### My contact
 *  Telegram - `@wertikomoment`
-*  Discord - `avikgold1`
 
 
 ### My GitHub Stats
